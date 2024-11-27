@@ -1,4 +1,4 @@
-- 👋 Hi, mates! Célio's here ..
+👋 Hi, mates! Célio's here ..
 
 I am a QA Engineer Student with a strong passion for ensuring software quality and continuous improvement. 
 I am dedicated to delivering reliable, high-quality products by testing and automation.
