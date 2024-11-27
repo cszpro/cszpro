@@ -6,14 +6,23 @@ I am dedicated to delivering reliable, high-quality products by testing and auto
 I am actively studying and gaining in-depth knowledge in the following technologies:
 
 ✨ Automated Testing (Cypress, Selenium)
+
 ✨ Node.js, Javascript and Python
+
 ✨ Rest APIs and Microservices
+
 ✨ Databases: MySQL, SQL Server and SQLite
+
 ✨ Azure (Azure Resource Manager - ARM)
+
 ✨ CI/CD Tools: Git,  GitHub Actions
+
 ✨ Agile Tools: Jira, Trello
+
 ✨ Test-Driven Development (TDD) and Behavior-Driven Development (BDD)
+
 ✨ Performance and Load Testing
+
 
 I am focused on developing effective test strategies, automating repetitive tasks, and ensuring the overall quality of the software development lifecycle. 
 I follow industry best practices and principles such as S.O.L.I.D, Clean Architecture, and Clean Code.
